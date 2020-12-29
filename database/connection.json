@@ -1,0 +1,16 @@
+{
+  "authentication": {
+    "options": {
+      "userName": "administrator@majormt.onmicrosoft.com",
+      "password": "$zly0@TY4DP*"
+    },
+    "type": "azure-active-directory-password"
+  },
+  "server": "mdex-prod.database.windows.net",
+  "options": {
+    "database": "mdex",
+    "encrypt": true,
+    "rowCollectionOnRequestCompletion": true,
+    "rowCollectionOnDone": true
+  }
+}
